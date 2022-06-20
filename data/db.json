@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Dragon Man"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Iron Man"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Bat Man"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Doo's Man"
+    }
+  ]
+}
